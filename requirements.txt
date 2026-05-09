@@ -5,3 +5,5 @@ tensorflow
 seaborn
 scikit-learn
 notebook
+flask
+flask-cors
